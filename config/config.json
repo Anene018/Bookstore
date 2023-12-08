@@ -1,9 +1,1 @@
-{
-  "development": {
-    "username": "postgres",
-    "password": "johnpaul2",
-    "database": "bookstore",
-    "host": "127.0.0.1",
-    "dialect": "postgres"
-  }
-}
+
